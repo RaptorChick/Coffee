@@ -1,0 +1,2913 @@
+Begin Object Class=Blueprint Name="DungBeetle_Character_BP_Evolved"
+   Begin Object Class=EdGraph Name="EventGraph"
+      Begin Object Class=EdGraphNode_Comment Name="EdGraphNode_Comment_1278"
+      End Object
+      Begin Object Class=EdGraphNode_Comment Name="EdGraphNode_Comment_526"
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_18366"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191381"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191382"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_51445"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191426"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191427"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191428"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_27944"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191315"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191316"
+         End Object
+      End Object
+      Begin Object Class=K2Node_DynamicCast Name="K2Node_DynamicCast_10418"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191333"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191334"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191335"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191336"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191337"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_27945"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191348"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191349"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191350"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191351"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191352"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191353"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191354"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191355"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191356"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191357"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191358"
+         End Object
+      End Object
+      Begin Object Class=K2Node_MacroInstance Name="K2Node_MacroInstance_536"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191907"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191908"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191909"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191910"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191911"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191912"
+         End Object
+      End Object
+      Begin Object Class=K2Node_MakeArray Name="K2Node_MakeArray_66"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191852"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191853"
+         End Object
+      End Object
+      Begin Object Class=K2Node_DynamicCast Name="K2Node_DynamicCast_33392"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191925"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191926"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191927"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191928"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191929"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CustomEvent Name="K2Node_CustomEvent_2609"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191178"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191179"
+         End Object
+      End Object
+      Begin Object Class=K2Node_IfThenElse Name="K2Node_IfThenElse_1717"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191321"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191322"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191323"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191324"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_8705"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191447"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191448"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_12019"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191528"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191529"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CustomEvent Name="K2Node_CustomEvent_2597"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191184"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191185"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_59579"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191387"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191388"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_28353"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191393"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191394"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191395"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191396"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191397"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191398"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191399"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191400"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191401"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191402"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191403"
+         End Object
+      End Object
+      Begin Object Class=K2Node_MakeArray Name="K2Node_MakeArray_36"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191858"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191859"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_8220"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191435"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191436"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_13566"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191441"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191442"
+         End Object
+      End Object
+      Begin Object Class=K2Node_MacroInstance Name="K2Node_MacroInstance_669"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191940"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191941"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191942"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191943"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191944"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191945"
+         End Object
+      End Object
+      Begin Object Class=K2Node_IfThenElse Name="K2Node_IfThenElse_1899"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191453"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191454"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191455"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191456"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_33680"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191465"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191466"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191467"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191468"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191469"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191470"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191471"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191472"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191473"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191474"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191475"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191476"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191477"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191478"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallArrayFunction Name="K2Node_CallArrayFunction_1507"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191507"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191508"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191509"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191510"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191511"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191512"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191513"
+         End Object
+      End Object
+      Begin Object Class=K2Node_MacroInstance Name="K2Node_MacroInstance_2004"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191958"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191959"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191960"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191961"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191962"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191963"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191964"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_24042"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191534"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191535"
+         End Object
+      End Object
+      Begin Object Class=K2Node_DynamicCast Name="K2Node_DynamicCast_6279"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191979"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191980"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191981"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191982"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191983"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_9636"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191555"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191556"
+         End Object
+      End Object
+      Begin Object Class=K2Node_MacroInstance Name="K2Node_MacroInstance_507"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191994"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191995"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191996"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191997"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191998"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191999"
+         End Object
+      End Object
+      Begin Object Class=K2Node_DynamicCast Name="K2Node_DynamicCast_3147"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192012"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192013"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192014"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192015"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192016"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableSet Name="K2Node_VariableSet_6553"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191588"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191589"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191590"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191591"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_10596"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191600"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191601"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CommutativeAssociativeBinaryOperator Name="K2Node_CommutativeAssociativeBinaryOperator_2547"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191606"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191607"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191608"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191609"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableSet Name="K2Node_VariableSet_6861"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191618"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191619"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191620"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191621"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_10915"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191630"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191631"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_38768"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191636"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191637"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191638"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191639"
+         End Object
+      End Object
+      Begin Object Class=K2Node_DynamicCast Name="K2Node_DynamicCast_4940"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192027"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192028"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192029"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192030"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192031"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_8221"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191663"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191664"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_38596"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191669"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191670"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191671"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191672"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191673"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_38671"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191684"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191685"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191686"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191687"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_8853"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191696"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191697"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallArrayFunction Name="K2Node_CallArrayFunction_1126"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191561"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191562"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191563"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191564"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_128123"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191717"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191718"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191719"
+         End Object
+      End Object
+      Begin Object Class=K2Node_ClassDynamicCast Name="K2Node_ClassDynamicCast_8613"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191726"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191727"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191728"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191729"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191730"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_128219"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191741"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191742"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191743"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191744"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191745"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191746"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191747"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191748"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191749"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191750"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191751"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191752"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191753"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191754"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_19076"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191783"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191784"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_128262"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191789"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191790"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191791"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_19078"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191798"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191799"
+         End Object
+      End Object
+      Begin Object Class=K2Node_DynamicCast Name="K2Node_DynamicCast_5954"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192042"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192043"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192044"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192045"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192046"
+         End Object
+      End Object
+      Begin Object Class=K2Node_Event Name="K2Node_Event_4368"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191193"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191194"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_154225"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191816"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191817"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191818"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_154517"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191825"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191826"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191827"
+         End Object
+      End Object
+      Begin Object Class=K2Node_ExecutionSequence Name="K2Node_ExecutionSequence_826"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191834"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191835"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191836"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_175200"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191804"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191805"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191806"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191807"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_175202"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191843"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191844"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191845"
+         End Object
+      End Object
+   End Object
+   Begin Object Class=EdGraph Name="UserConstructionScript"
+      Begin Object Class=K2Node_FunctionEntry Name="K2Node_FunctionEntry_426"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191190"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallParentFunction Name="K2Node_CallParentFunction_3"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191898"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191899"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_191900"
+         End Object
+      End Object
+   End Object
+   Begin Object Class=SceneThumbnailInfo Name="SceneThumbnailInfo_3"
+   End Object
+   Begin Object Class=EdGraph Name="BlueprintTamedTick"
+      Begin Object Class=K2Node_FunctionEntry Name="K2Node_FunctionEntry_6819"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192076"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_12579"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192077"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192078"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192079"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192080"
+         End Object
+      End Object
+   End Object
+   Begin Object Class=EdGraph Name="AddFert"
+      Begin Object Class=K2Node_FunctionEntry Name="K2Node_FunctionEntry_6820"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192081"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_12580"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192082"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192083"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192084"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192085"
+         End Object
+      End Object
+   End Object
+   Begin Object Class=EdGraph Name="collectpoop"
+      Begin Object Class=K2Node_FunctionEntry Name="K2Node_FunctionEntry_6821"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192086"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_12581"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192087"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192088"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192089"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_192090"
+         End Object
+      End Object
+   End Object
+   Begin Object Name="EventGraph"
+      Begin Object Name="EdGraphNode_Comment_1278"
+         NodePosX=-2560
+         NodePosY=512
+         NodeWidth=5648
+         NodeHeight=1440
+         NodeComment="Sorting"
+         NodeGuid=0F28372C47DB03249F64889DBD1E3ABB
+      End Object
+      Begin Object Name="EdGraphNode_Comment_526"
+         NodePosX=-1072
+         NodePosY=-864
+         NodeWidth=3808
+         NodeHeight=1200
+         NodeComment="Poop Collection"
+         NodeGuid=20574EE84FF9868DD40F16A32C4E5111
+      End Object
+      Begin Object Name="K2Node_VariableGet_18366"
+         Begin Object Name="EdGraphPin_191381"
+            PinName="MyInventoryComponent"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalInventoryComponent')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_128219.EdGraphPin_191745"'
+         End Object
+         Begin Object Name="EdGraphPin_191382"
+            PinName="self"
+            PinType=(PinCategory="object",PinSubCategory="self")
+            bHidden=True
+         End Object
+         VariableReference=(MemberName="MyInventoryComponent",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191381'
+         Pins(1)=EdGraphPin'EdGraphPin_191382'
+         NodePosX=1712
+         NodePosY=96
+         ErrorType=1
+         ErrorMsg="Warning Unable to find variable with name \'MyInventoryComponent\' for  Get MyInventoryComponent \nError The property associated with  My Inventory Component  could not be found"
+         NodeGuid=8821D66C4BE1D60DD12EE3B4CB605FD4
+      End Object
+      Begin Object Name="K2Node_CallFunction_51445"
+         Begin Object Name="EdGraphPin_191426"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_128219.EdGraphPin_191742"'
+         End Object
+         Begin Object Name="EdGraphPin_191427"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Begin Object Name="EdGraphPin_191428"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nActor Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.Actor')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_33392.EdGraphPin_191929"'
+         End Object
+         FunctionReference=(MemberName="K2_DestroyActor",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191426'
+         Pins(1)=EdGraphPin'EdGraphPin_191427'
+         Pins(2)=EdGraphPin'EdGraphPin_191428'
+         NodePosX=2432
+         NodePosY=-304
+         NodeGuid=FDBBFBC84E994677538906A457E2247A
+      End Object
+      Begin Object Name="K2Node_CallFunction_27944"
+         Begin Object Name="EdGraphPin_191315"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nActor Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.Actor')
+         End Object
+         Begin Object Name="EdGraphPin_191316"
+            PinName="ReturnValue"
+            PinToolTip="Return Value\nVector "
+            Direction=EGPD_Output
+            PinType=(PinCategory="struct",PinSubCategoryObject=ScriptStruct'/Script/CoreUObject.Object:Vector')
+            DefaultValue="0, 0, 0"
+            AutogeneratedDefaultValue="0, 0, 0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_27945.EdGraphPin_191352"'
+         End Object
+         bIsPureFunc=True
+         bIsConstFunc=True
+         FunctionReference=(MemberName="K2_GetActorLocation",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191315'
+         Pins(1)=EdGraphPin'EdGraphPin_191316'
+         NodePosX=-736
+         NodePosY=-352
+         NodeGuid=19695FC34B185317F7EDB38D7899CD55
+      End Object
+      Begin Object Name="K2Node_DynamicCast_10418"
+         Begin Object Name="EdGraphPin_191333"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_536.EdGraphPin_191909"'
+         End Object
+         Begin Object Name="EdGraphPin_191334"
+            PinName="Object"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/CoreUObject.Object')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_536.EdGraphPin_191910"'
+         End Object
+         Begin Object Name="EdGraphPin_191335"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_33392.EdGraphPin_191925"'
+         End Object
+         Begin Object Name="EdGraphPin_191336"
+            PinName="CastFailed"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Begin Object Name="EdGraphPin_191337"
+            PinName="AsObject"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/CoreUObject.Object')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_33392.EdGraphPin_191926"'
+         End Object
+         TargetType=Class'/Script/CoreUObject.Object'
+         Pins(0)=EdGraphPin'EdGraphPin_191333'
+         Pins(1)=EdGraphPin'EdGraphPin_191334'
+         Pins(2)=EdGraphPin'EdGraphPin_191335'
+         Pins(3)=EdGraphPin'EdGraphPin_191336'
+         Pins(4)=EdGraphPin'EdGraphPin_191337'
+         NodePosX=480
+         NodePosY=-352
+         NodeGuid=D96778544305CA7A7D8CD1A5E036B1CB
+      End Object
+      Begin Object Name="K2Node_CallFunction_27945"
+         Begin Object Name="EdGraphPin_191348"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CustomEvent_2609.EdGraphPin_191179"'
+         End Object
+         Begin Object Name="EdGraphPin_191349"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_536.EdGraphPin_191907"'
+         End Object
+         Begin Object Name="EdGraphPin_191350"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nKismet System Library Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.KismetSystemLibrary')
+            DefaultObject=Default__KismetSystemLibrary
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_191351"
+            PinName="WorldContextObject"
+            PinToolTip="World Context Object\nObject Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/CoreUObject.Object')
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_191352"
+            PinName="BoxPos"
+            PinToolTip="Box Pos\nVector \n\nCenter of box."
+            PinType=(PinCategory="struct",PinSubCategoryObject=ScriptStruct'/Script/CoreUObject.Object:Vector',bIsConst=True)
+            DefaultValue="0, 0, 0"
+            AutogeneratedDefaultValue="0, 0, 0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_27944.EdGraphPin_191316"'
+         End Object
+         Begin Object Name="EdGraphPin_191353"
+            PinName="BoxExtent"
+            PinToolTip="Box Extent\nVector \n\nExtents of box."
+            PinType=(PinCategory="struct",PinSubCategoryObject=ScriptStruct'/Script/CoreUObject.Object:Vector')
+            DefaultValue="0, 0, 0"
+            AutogeneratedDefaultValue="0, 0, 0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_12019.EdGraphPin_191528"'
+         End Object
+         Begin Object Name="EdGraphPin_191354"
+            PinName="ObjectTypes"
+            PinToolTip="Object Types\nArray of EObjectTypeQuery Enum"
+            PinType=(PinCategory="byte",PinSubCategoryObject=Enum'/Script/Engine.EngineTypes:EObjectTypeQuery',bIsArray=True,bIsReference=True,bIsConst=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MakeArray_66.EdGraphPin_191852"'
+            bDefaultValueIsIgnored=True
+         End Object
+         Begin Object Name="EdGraphPin_191355"
+            PinName="ActorClassFilter"
+            PinToolTip="Actor Class Filter\nObject Class"
+            PinType=(PinCategory="class",PinSubCategoryObject=Class'/Script/CoreUObject.Object')
+            DefaultObject=BlueprintGeneratedClass'/Game/PrimalEarth/Test/DroppedItemGenericLowQuality.DroppedItemGenericLowQuality_C'
+         End Object
+         Begin Object Name="EdGraphPin_191356"
+            PinName="ActorsToIgnore"
+            PinToolTip="Actors to Ignore\nArray of Actor Reference\n\nIgnore these actors in the list"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.Actor',bIsArray=True,bIsReference=True,bIsConst=True)
+            bDefaultValueIsIgnored=True
+         End Object
+         Begin Object Name="EdGraphPin_191357"
+            PinName="OutActors"
+            PinToolTip="Out Actors\nArray of Actor Reference\n\nReturned array of actors. Unsorted."
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.Actor',bIsArray=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_536.EdGraphPin_191908"'
+         End Object
+         Begin Object Name="EdGraphPin_191358"
+            PinName="ReturnValue"
+            PinToolTip="Return Value\nBoolean\n\ntrue if there was an overlap that passed the filters, false otherwise."
+            Direction=EGPD_Output
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+         End Object
+         FunctionReference=(MemberParentClass=Class'/Script/Engine.KismetSystemLibrary',MemberName="BoxOverlapActors_NEW")
+         Pins(0)=EdGraphPin'EdGraphPin_191348'
+         Pins(1)=EdGraphPin'EdGraphPin_191349'
+         Pins(2)=EdGraphPin'EdGraphPin_191350'
+         Pins(3)=EdGraphPin'EdGraphPin_191351'
+         Pins(4)=EdGraphPin'EdGraphPin_191352'
+         Pins(5)=EdGraphPin'EdGraphPin_191353'
+         Pins(6)=EdGraphPin'EdGraphPin_191354'
+         Pins(7)=EdGraphPin'EdGraphPin_191355'
+         Pins(8)=EdGraphPin'EdGraphPin_191356'
+         Pins(9)=EdGraphPin'EdGraphPin_191357'
+         Pins(10)=EdGraphPin'EdGraphPin_191358'
+         NodePosX=-336
+         NodePosY=-368
+         ErrorType=1
+         ErrorMsg="Error Default value \'\' for  Object Types  is invalid: \'Literal values are not allowed for array parameters.  Use a Make Array node instead\'"
+         NodeGuid=2ABB74C348C08104F6D6DD907B86CEB0
+      End Object
+      Begin Object Name="K2Node_MacroInstance_536"
+         Begin Object Name="EdGraphPin_191907"
+            PinName="Exec"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_27945.EdGraphPin_191349"'
+         End Object
+         Begin Object Name="EdGraphPin_191908"
+            PinName="Array"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.Actor',bIsArray=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_27945.EdGraphPin_191357"'
+         End Object
+         Begin Object Name="EdGraphPin_191909"
+            PinName="LoopBody"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_10418.EdGraphPin_191333"'
+         End Object
+         Begin Object Name="EdGraphPin_191910"
+            PinName="Array Element"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.Actor')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_10418.EdGraphPin_191334"'
+         End Object
+         Begin Object Name="EdGraphPin_191911"
+            PinName="Array Index"
+            Direction=EGPD_Output
+            PinType=(PinCategory="int")
+         End Object
+         Begin Object Name="EdGraphPin_191912"
+            PinName="Completed"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         MacroGraphReference=(MacroGraph=EdGraph'/Engine/EditorBlueprintResources/StandardMacros.StandardMacros:ForEachLoop',GraphBlueprint=Blueprint'/Engine/EditorBlueprintResources/StandardMacros.StandardMacros',GraphGuid=99DBFD5540A796041F72A5A9DA655026)
+         ResolvedWildcardType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.Actor',bIsArray=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191907'
+         Pins(1)=EdGraphPin'EdGraphPin_191908'
+         Pins(2)=EdGraphPin'EdGraphPin_191909'
+         Pins(3)=EdGraphPin'EdGraphPin_191910'
+         Pins(4)=EdGraphPin'EdGraphPin_191911'
+         Pins(5)=EdGraphPin'EdGraphPin_191912'
+         NodePosX=144
+         NodePosY=-384
+         ErrorType=1
+         ErrorMsg="Error Unexpected node type K2Node_MacroInstance encountered at  ForEachLoop "
+         NodeGuid=6EABBBE74A2B98A24CF436832AAF2B7C
+      End Object
+      Begin Object Name="K2Node_MakeArray_66"
+         Begin Object Name="EdGraphPin_191852"
+            PinName="Array"
+            Direction=EGPD_Output
+            PinType=(PinCategory="byte",PinSubCategoryObject=Enum'/Script/Engine.EngineTypes:EObjectTypeQuery',bIsArray=True,bIsReference=True,bIsConst=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_27945.EdGraphPin_191354"'
+         End Object
+         Begin Object Name="EdGraphPin_191853"
+            PinName="[0]"
+            PinType=(PinCategory="byte",PinSubCategoryObject=Enum'/Script/Engine.EngineTypes:EObjectTypeQuery')
+            DefaultValue="ObjectTypeQuery11"
+         End Object
+         Pins(0)=EdGraphPin'EdGraphPin_191852'
+         Pins(1)=EdGraphPin'EdGraphPin_191853'
+         NodePosX=-784
+         NodePosY=-160
+         NodeGuid=5F31DBEE448CAE622602CD9F68F1B26B
+      End Object
+      Begin Object Name="K2Node_DynamicCast_33392"
+         Begin Object Name="EdGraphPin_191925"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_10418.EdGraphPin_191335"'
+         End Object
+         Begin Object Name="EdGraphPin_191926"
+            PinName="Object"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/CoreUObject.Object')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_10418.EdGraphPin_191337"'
+         End Object
+         Begin Object Name="EdGraphPin_191927"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_38596.EdGraphPin_191669"'
+         End Object
+         Begin Object Name="EdGraphPin_191928"
+            PinName="CastFailed"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Begin Object Name="EdGraphPin_191929"
+            PinName="AsDroppedItemGenericLowQuality_C"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'/Game/PrimalEarth/Test/DroppedItemGenericLowQuality.DroppedItemGenericLowQuality_C')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_51445.EdGraphPin_191428"'
+            LinkedTo(1)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_8705.EdGraphPin_191448"'
+         End Object
+         TargetType=BlueprintGeneratedClass'/Game/PrimalEarth/Test/DroppedItemGenericLowQuality.DroppedItemGenericLowQuality_C'
+         Pins(0)=EdGraphPin'EdGraphPin_191925'
+         Pins(1)=EdGraphPin'EdGraphPin_191926'
+         Pins(2)=EdGraphPin'EdGraphPin_191927'
+         Pins(3)=EdGraphPin'EdGraphPin_191928'
+         Pins(4)=EdGraphPin'EdGraphPin_191929'
+         NodePosX=704
+         NodePosY=-320
+         NodeGuid=A538F2414A2D6923C19F0999E40553FA
+      End Object
+      Begin Object Name="K2Node_CustomEvent_2609"
+         Begin Object Name="EdGraphPin_191178"
+            PinName="OutputDelegate"
+            Direction=EGPD_Output
+            PinType=(PinCategory="delegate")
+         End Object
+         Begin Object Name="EdGraphPin_191179"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_27945.EdGraphPin_191348"'
+         End Object
+         CustomFunctionName="collectpoop"
+         Pins(0)=EdGraphPin'EdGraphPin_191178'
+         Pins(1)=EdGraphPin'EdGraphPin_191179'
+         NodePosX=-896
+         NodePosY=-480
+         NodeGuid=90D1FA2C489C36B0364FBC97DD788D6B
+      End Object
+      Begin Object Name="K2Node_IfThenElse_1717"
+         Begin Object Name="EdGraphPin_191321"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_38596.EdGraphPin_191670"'
+         End Object
+         Begin Object Name="EdGraphPin_191322"
+            PinName="Condition"
+            PinType=(PinCategory="bool")
+            DefaultValue="true"
+            AutogeneratedDefaultValue="true"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_38671.EdGraphPin_191687"'
+         End Object
+         Begin Object Name="EdGraphPin_191323"
+            PinName="then"
+            PinFriendlyName="true"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_4940.EdGraphPin_192027"'
+         End Object
+         Begin Object Name="EdGraphPin_191324"
+            PinName="else"
+            PinFriendlyName="false"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Pins(0)=EdGraphPin'EdGraphPin_191321'
+         Pins(1)=EdGraphPin'EdGraphPin_191322'
+         Pins(2)=EdGraphPin'EdGraphPin_191323'
+         Pins(3)=EdGraphPin'EdGraphPin_191324'
+         NodePosX=1024
+         NodePosY=-80
+         NodeGuid=3DC112424AA86B9261E297B465A29E6F
+      End Object
+      Begin Object Name="K2Node_VariableGet_8705"
+         Begin Object Name="EdGraphPin_191447"
+            PinName="MyItem"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_4940.EdGraphPin_192028"'
+         End Object
+         Begin Object Name="EdGraphPin_191448"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.DroppedItem')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_33392.EdGraphPin_191929"'
+         End Object
+         VariableReference=(MemberParentClass=Class'/Script/ShooterGame.DroppedItem',MemberName="MyItem")
+         Pins(0)=EdGraphPin'EdGraphPin_191447'
+         Pins(1)=EdGraphPin'EdGraphPin_191448'
+         NodePosX=1136
+         NodePosY=-160
+         NodeGuid=80F10E4B4E2A8DABB7285A8688275B5F
+      End Object
+      Begin Object Name="K2Node_VariableGet_12019"
+         Begin Object Name="EdGraphPin_191528"
+            PinName="BoxSize"
+            Direction=EGPD_Output
+            PinType=(PinCategory="struct",PinSubCategoryObject=ScriptStruct'/Script/CoreUObject.Object:Vector')
+            DefaultValue="0, 0, 0"
+            AutogeneratedDefaultValue="0, 0, 0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_27945.EdGraphPin_191353"'
+         End Object
+         Begin Object Name="EdGraphPin_191529"
+            PinName="self"
+            PinType=(PinCategory="object",PinSubCategory="self")
+            bHidden=True
+         End Object
+         VariableReference=(MemberName="BoxSize",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191528'
+         Pins(1)=EdGraphPin'EdGraphPin_191529'
+         NodePosX=-592
+         NodePosY=-240
+         ErrorType=3
+         ErrorMsg="Warning Unable to find variable with name \'BoxSize\' for  Get BoxSize "
+         NodeGuid=F83E861147971CB80180E09DC9F50D9D
+      End Object
+      Begin Object Name="K2Node_CustomEvent_2597"
+         Begin Object Name="EdGraphPin_191184"
+            PinName="OutputDelegate"
+            Direction=EGPD_Output
+            PinType=(PinCategory="delegate")
+         End Object
+         Begin Object Name="EdGraphPin_191185"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_669.EdGraphPin_191940"'
+         End Object
+         CustomFunctionName="AddFert"
+         Pins(0)=EdGraphPin'EdGraphPin_191184'
+         Pins(1)=EdGraphPin'EdGraphPin_191185'
+         NodePosX=-1664
+         NodePosY=640
+         NodeGuid=45DD7ED84AE23125FD3CC491DC302745
+      End Object
+      Begin Object Name="K2Node_CallFunction_59579"
+         Begin Object Name="EdGraphPin_191387"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nActor Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.Actor')
+         End Object
+         Begin Object Name="EdGraphPin_191388"
+            PinName="ReturnValue"
+            PinToolTip="Return Value\nVector "
+            Direction=EGPD_Output
+            PinType=(PinCategory="struct",PinSubCategoryObject=ScriptStruct'/Script/CoreUObject.Object:Vector')
+            DefaultValue="0, 0, 0"
+            AutogeneratedDefaultValue="0, 0, 0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_28353.EdGraphPin_191397"'
+         End Object
+         bIsPureFunc=True
+         bIsConstFunc=True
+         FunctionReference=(MemberName="K2_GetActorLocation",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191387'
+         Pins(1)=EdGraphPin'EdGraphPin_191388'
+         NodePosX=-464
+         NodePosY=896
+         NodeGuid=068522F141012553AF1D839B0C1301E7
+      End Object
+      Begin Object Name="K2Node_CallFunction_28353"
+         Begin Object Name="EdGraphPin_191393"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_5954.EdGraphPin_192044"'
+         End Object
+         Begin Object Name="EdGraphPin_191394"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_2004.EdGraphPin_191958"'
+         End Object
+         Begin Object Name="EdGraphPin_191395"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nKismet System Library Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.KismetSystemLibrary')
+            DefaultObject=Default__KismetSystemLibrary
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_191396"
+            PinName="WorldContextObject"
+            PinToolTip="World Context Object\nObject Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/CoreUObject.Object')
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_191397"
+            PinName="BoxPos"
+            PinToolTip="Box Pos\nVector \n\nCenter of box."
+            PinType=(PinCategory="struct",PinSubCategoryObject=ScriptStruct'/Script/CoreUObject.Object:Vector',bIsConst=True)
+            DefaultValue="0, 0, 0"
+            AutogeneratedDefaultValue="0, 0, 0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_59579.EdGraphPin_191388"'
+         End Object
+         Begin Object Name="EdGraphPin_191398"
+            PinName="BoxExtent"
+            PinToolTip="Box Extent\nVector \n\nExtents of box."
+            PinType=(PinCategory="struct",PinSubCategoryObject=ScriptStruct'/Script/CoreUObject.Object:Vector')
+            DefaultValue="0, 0, 0"
+            AutogeneratedDefaultValue="0, 0, 0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_8220.EdGraphPin_191435"'
+         End Object
+         Begin Object Name="EdGraphPin_191399"
+            PinName="ObjectTypes"
+            PinToolTip="Object Types\nArray of EObjectTypeQuery Enum"
+            PinType=(PinCategory="byte",PinSubCategoryObject=Enum'/Script/Engine.EngineTypes:EObjectTypeQuery',bIsArray=True,bIsReference=True,bIsConst=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MakeArray_36.EdGraphPin_191858"'
+            bDefaultValueIsIgnored=True
+         End Object
+         Begin Object Name="EdGraphPin_191400"
+            PinName="ActorClassFilter"
+            PinToolTip="Actor Class Filter\nObject Class"
+            PinType=(PinCategory="class",PinSubCategoryObject=Class'/Script/CoreUObject.Object')
+            DefaultObject=BlueprintGeneratedClass'/Game/PrimalEarth/Structures/BuildingBases/CropPlotBaseBP.CropPlotBaseBP_C'
+         End Object
+         Begin Object Name="EdGraphPin_191401"
+            PinName="ActorsToIgnore"
+            PinToolTip="Actors to Ignore\nArray of Actor Reference\n\nIgnore these actors in the list"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.Actor',bIsArray=True,bIsReference=True,bIsConst=True)
+            bDefaultValueIsIgnored=True
+         End Object
+         Begin Object Name="EdGraphPin_191402"
+            PinName="OutActors"
+            PinToolTip="Out Actors\nArray of Actor Reference\n\nReturned array of actors. Unsorted."
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.Actor',bIsArray=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_2004.EdGraphPin_191959"'
+         End Object
+         Begin Object Name="EdGraphPin_191403"
+            PinName="ReturnValue"
+            PinToolTip="Return Value\nBoolean\n\ntrue if there was an overlap that passed the filters, false otherwise."
+            Direction=EGPD_Output
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+         End Object
+         FunctionReference=(MemberParentClass=Class'/Script/Engine.KismetSystemLibrary',MemberName="BoxOverlapActors_NEW")
+         Pins(0)=EdGraphPin'EdGraphPin_191393'
+         Pins(1)=EdGraphPin'EdGraphPin_191394'
+         Pins(2)=EdGraphPin'EdGraphPin_191395'
+         Pins(3)=EdGraphPin'EdGraphPin_191396'
+         Pins(4)=EdGraphPin'EdGraphPin_191397'
+         Pins(5)=EdGraphPin'EdGraphPin_191398'
+         Pins(6)=EdGraphPin'EdGraphPin_191399'
+         Pins(7)=EdGraphPin'EdGraphPin_191400'
+         Pins(8)=EdGraphPin'EdGraphPin_191401'
+         Pins(9)=EdGraphPin'EdGraphPin_191402'
+         Pins(10)=EdGraphPin'EdGraphPin_191403'
+         NodePosY=960
+         ErrorType=1
+         ErrorMsg="Error Default value \'\' for  Object Types  is invalid: \'Literal values are not allowed for array parameters.  Use a Make Array node instead\'"
+         NodeGuid=AB4E73A84250D938E88A339BCA030F5C
+      End Object
+      Begin Object Name="K2Node_MakeArray_36"
+         Begin Object Name="EdGraphPin_191858"
+            PinName="Array"
+            Direction=EGPD_Output
+            PinType=(PinCategory="byte",PinSubCategoryObject=Enum'/Script/Engine.EngineTypes:EObjectTypeQuery',bIsArray=True,bIsReference=True,bIsConst=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_28353.EdGraphPin_191399"'
+         End Object
+         Begin Object Name="EdGraphPin_191859"
+            PinName="[0]"
+            PinType=(PinCategory="byte",PinSubCategoryObject=Enum'/Script/Engine.EngineTypes:EObjectTypeQuery')
+            DefaultValue="ObjectTypeQuery9"
+         End Object
+         Pins(0)=EdGraphPin'EdGraphPin_191858'
+         Pins(1)=EdGraphPin'EdGraphPin_191859'
+         NodePosX=-480
+         NodePosY=1088
+         NodeGuid=4E2907DA47954B3B3A18B8818C6DB97C
+      End Object
+      Begin Object Name="K2Node_VariableGet_8220"
+         Begin Object Name="EdGraphPin_191435"
+            PinName="BoxSize"
+            Direction=EGPD_Output
+            PinType=(PinCategory="struct",PinSubCategoryObject=ScriptStruct'/Script/CoreUObject.Object:Vector')
+            DefaultValue="0, 0, 0"
+            AutogeneratedDefaultValue="0, 0, 0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_28353.EdGraphPin_191398"'
+         End Object
+         Begin Object Name="EdGraphPin_191436"
+            PinName="self"
+            PinType=(PinCategory="object",PinSubCategory="self")
+            bHidden=True
+         End Object
+         VariableReference=(MemberName="BoxSize",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191435'
+         Pins(1)=EdGraphPin'EdGraphPin_191436'
+         NodePosX=-448
+         NodePosY=1008
+         ErrorType=3
+         ErrorMsg="Warning Unable to find variable with name \'BoxSize\' for  Get BoxSize "
+         NodeGuid=9CC3DC4049485DA6D8329C95EC265891
+      End Object
+      Begin Object Name="K2Node_VariableGet_13566"
+         Begin Object Name="EdGraphPin_191441"
+            PinName="InventoryItems"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem',bIsArray=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_669.EdGraphPin_191941"'
+            LinkedTo(1)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallArrayFunction_1507.EdGraphPin_191510"'
+         End Object
+         Begin Object Name="EdGraphPin_191442"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalInventoryComponent')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_19078.EdGraphPin_191798"'
+         End Object
+         VariableReference=(MemberParentClass=Class'/Script/ShooterGame.PrimalInventoryComponent',MemberName="InventoryItems")
+         SelfContextInfo=NotSelfContext
+         Pins(0)=EdGraphPin'EdGraphPin_191441'
+         Pins(1)=EdGraphPin'EdGraphPin_191442'
+         NodePosX=-1632
+         NodePosY=768
+         NodeGuid=0925FEFD477D2E85A42523818B679C11
+      End Object
+      Begin Object Name="K2Node_MacroInstance_669"
+         Begin Object Name="EdGraphPin_191940"
+            PinName="Exec"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CustomEvent_2597.EdGraphPin_191185"'
+         End Object
+         Begin Object Name="EdGraphPin_191941"
+            PinName="Array"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem',bIsArray=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_13566.EdGraphPin_191441"'
+         End Object
+         Begin Object Name="EdGraphPin_191942"
+            PinName="LoopBody"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_5954.EdGraphPin_192042"'
+         End Object
+         Begin Object Name="EdGraphPin_191943"
+            PinName="Array Element"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_5954.EdGraphPin_192043"'
+         End Object
+         Begin Object Name="EdGraphPin_191944"
+            PinName="Array Index"
+            Direction=EGPD_Output
+            PinType=(PinCategory="int")
+         End Object
+         Begin Object Name="EdGraphPin_191945"
+            PinName="Completed"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         MacroGraphReference=(MacroGraph=EdGraph'/Engine/EditorBlueprintResources/StandardMacros.StandardMacros:ForEachLoop',GraphBlueprint=Blueprint'/Engine/EditorBlueprintResources/StandardMacros.StandardMacros',GraphGuid=99DBFD5540A796041F72A5A9DA655026)
+         ResolvedWildcardType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem',bIsArray=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191940'
+         Pins(1)=EdGraphPin'EdGraphPin_191941'
+         Pins(2)=EdGraphPin'EdGraphPin_191942'
+         Pins(3)=EdGraphPin'EdGraphPin_191943'
+         Pins(4)=EdGraphPin'EdGraphPin_191944'
+         Pins(5)=EdGraphPin'EdGraphPin_191945'
+         NodePosX=-1232
+         NodePosY=640
+         ErrorType=1
+         ErrorMsg="Error Unexpected node type K2Node_MacroInstance encountered at  ForEachLoop "
+         NodeGuid=E4B0C5AA4145F9F084F85DA041250FD4
+      End Object
+      Begin Object Name="K2Node_IfThenElse_1899"
+         Begin Object Name="EdGraphPin_191453"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_507.EdGraphPin_191999"'
+         End Object
+         Begin Object Name="EdGraphPin_191454"
+            PinName="Condition"
+            PinType=(PinCategory="bool")
+            DefaultValue="true"
+            AutogeneratedDefaultValue="true"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_38768.EdGraphPin_191639"'
+         End Object
+         Begin Object Name="EdGraphPin_191455"
+            PinName="then"
+            PinFriendlyName="true"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_33680.EdGraphPin_191465"'
+         End Object
+         Begin Object Name="EdGraphPin_191456"
+            PinName="else"
+            PinFriendlyName="false"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Pins(0)=EdGraphPin'EdGraphPin_191453'
+         Pins(1)=EdGraphPin'EdGraphPin_191454'
+         Pins(2)=EdGraphPin'EdGraphPin_191455'
+         Pins(3)=EdGraphPin'EdGraphPin_191456'
+         NodePosX=1696
+         NodePosY=848
+         NodeGuid=6BF748B6459C075224E69BB7D3146652
+      End Object
+      Begin Object Name="K2Node_CallFunction_33680"
+         Begin Object Name="EdGraphPin_191465"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_IfThenElse_1899.EdGraphPin_191455"'
+         End Object
+         Begin Object Name="EdGraphPin_191466"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallArrayFunction_1507.EdGraphPin_191507"'
+         End Object
+         Begin Object Name="EdGraphPin_191467"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nPrimal Item Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem')
+            DefaultObject=Default__PrimalItem
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_191468"
+            PinName="ItemArchetype"
+            PinToolTip="Item Archetype\nPrimal Item Class"
+            PinType=(PinCategory="class",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem')
+            DefaultObject=BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost_C'
+         End Object
+         Begin Object Name="EdGraphPin_191469"
+            PinName="GiveToInventory"
+            PinToolTip="Give to Inventory\nPrimal Inventory Component Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalInventoryComponent')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_24042.EdGraphPin_191534"'
+         End Object
+         Begin Object Name="EdGraphPin_191470"
+            PinName="bEquipItem"
+            PinToolTip="Equip Item\nBoolean"
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+         End Object
+         Begin Object Name="EdGraphPin_191471"
+            PinName="bDontStack"
+            PinToolTip="Dont Stack\nBoolean"
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+         End Object
+         Begin Object Name="EdGraphPin_191472"
+            PinName="ItemQuality"
+            PinToolTip="Item Quality\nFloat"
+            PinType=(PinCategory="float")
+            DefaultValue="0.000000"
+            AutogeneratedDefaultValue="0.000000"
+         End Object
+         Begin Object Name="EdGraphPin_191473"
+            PinName="bForceNoBlueprint"
+            PinToolTip="Force No Blueprint\nBoolean"
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+         End Object
+         Begin Object Name="EdGraphPin_191474"
+            PinName="quantityOverride"
+            PinToolTip="Quantity Override\nInteger"
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+         End Object
+         Begin Object Name="EdGraphPin_191475"
+            PinName="bForceBlueprint"
+            PinToolTip="Force Blueprint\nBoolean"
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+         End Object
+         Begin Object Name="EdGraphPin_191476"
+            PinName="MaxItemDifficultyClamp"
+            PinToolTip="Max Item Difficulty Clamp\nFloat"
+            PinType=(PinCategory="float")
+            DefaultValue="0.000000"
+            AutogeneratedDefaultValue="0.000000"
+         End Object
+         Begin Object Name="EdGraphPin_191477"
+            PinName="CreateOnClient"
+            PinToolTip="Create on Client\nBoolean"
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+         End Object
+         Begin Object Name="EdGraphPin_191478"
+            PinName="ReturnValue"
+            PinToolTip="Return Value\nPrimal Item Reference"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem')
+         End Object
+         FunctionReference=(MemberParentClass=Class'/Script/ShooterGame.PrimalItem',MemberName="AddNewItem")
+         Pins(0)=EdGraphPin'EdGraphPin_191465'
+         Pins(1)=EdGraphPin'EdGraphPin_191466'
+         Pins(2)=EdGraphPin'EdGraphPin_191467'
+         Pins(3)=EdGraphPin'EdGraphPin_191468'
+         Pins(4)=EdGraphPin'EdGraphPin_191469'
+         Pins(5)=EdGraphPin'EdGraphPin_191470'
+         Pins(6)=EdGraphPin'EdGraphPin_191471'
+         Pins(7)=EdGraphPin'EdGraphPin_191472'
+         Pins(8)=EdGraphPin'EdGraphPin_191473'
+         Pins(9)=EdGraphPin'EdGraphPin_191474'
+         Pins(10)=EdGraphPin'EdGraphPin_191475'
+         Pins(11)=EdGraphPin'EdGraphPin_191476'
+         Pins(12)=EdGraphPin'EdGraphPin_191477'
+         Pins(13)=EdGraphPin'EdGraphPin_191478'
+         NodePosX=1936
+         NodePosY=848
+         NodeGuid=5306DF7A41E64DBA7A8157BC26123461
+      End Object
+      Begin Object Name="K2Node_CallArrayFunction_1507"
+         Begin Object Name="EdGraphPin_191507"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_33680.EdGraphPin_191466"'
+         End Object
+         Begin Object Name="EdGraphPin_191508"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_2004.EdGraphPin_191960"'
+         End Object
+         Begin Object Name="EdGraphPin_191509"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nKismet Array Library Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.KismetArrayLibrary')
+            DefaultObject=Default__KismetArrayLibrary
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_191510"
+            PinName="TargetArray"
+            PinToolTip="Target Array\nArray of Wildcard\n\nThe array to remove from *"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem',bIsArray=True,bIsReference=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_13566.EdGraphPin_191441"'
+            bDefaultValueIsIgnored=True
+         End Object
+         Begin Object Name="EdGraphPin_191511"
+            PinName="ArrayProperty"
+            PinToolTip="Array Property\nArray Property Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/CoreUObject.ArrayProperty',bIsConst=True)
+            bHidden=True
+            bNotConnectable=True
+            bDefaultValueIsReadOnly=True
+         End Object
+         Begin Object Name="EdGraphPin_191512"
+            PinName="Item"
+            PinToolTip="Item\nInteger (by ref)\n\nThe item to remove from the array *"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem',bIsReference=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_5954.EdGraphPin_192046"'
+         End Object
+         Begin Object Name="EdGraphPin_191513"
+            PinName="ReturnValue"
+            PinToolTip="Return Value\nBoolean\n\nTrue if one or more items were removed"
+            Direction=EGPD_Output
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+         End Object
+         FunctionReference=(MemberParentClass=Class'/Script/Engine.KismetArrayLibrary',MemberName="Array_RemoveItem")
+         Pins(0)=EdGraphPin'EdGraphPin_191507'
+         Pins(1)=EdGraphPin'EdGraphPin_191508'
+         Pins(2)=EdGraphPin'EdGraphPin_191509'
+         Pins(3)=EdGraphPin'EdGraphPin_191510'
+         Pins(4)=EdGraphPin'EdGraphPin_191511'
+         Pins(5)=EdGraphPin'EdGraphPin_191512'
+         Pins(6)=EdGraphPin'EdGraphPin_191513'
+         NodePosX=2544
+         NodePosY=1088
+         NodeGuid=6CD2842A41E8AE1A6FEE42874F56F640
+      End Object
+      Begin Object Name="K2Node_MacroInstance_2004"
+         Begin Object Name="EdGraphPin_191958"
+            PinName="Exec"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_28353.EdGraphPin_191394"'
+         End Object
+         Begin Object Name="EdGraphPin_191959"
+            PinName="Array"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.Actor',bIsArray=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_28353.EdGraphPin_191402"'
+         End Object
+         Begin Object Name="EdGraphPin_191960"
+            PinName="Break"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallArrayFunction_1507.EdGraphPin_191508"'
+         End Object
+         Begin Object Name="EdGraphPin_191961"
+            PinName="LoopBody"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_6279.EdGraphPin_191979"'
+         End Object
+         Begin Object Name="EdGraphPin_191962"
+            PinName="Array Element"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.Actor')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_6279.EdGraphPin_191980"'
+         End Object
+         Begin Object Name="EdGraphPin_191963"
+            PinName="Array Index"
+            Direction=EGPD_Output
+            PinType=(PinCategory="int")
+         End Object
+         Begin Object Name="EdGraphPin_191964"
+            PinName="Completed"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         MacroGraphReference=(MacroGraph=EdGraph'/Engine/EditorBlueprintResources/StandardMacros.StandardMacros:ForEachLoopWithBreak',GraphBlueprint=Blueprint'/Engine/EditorBlueprintResources/StandardMacros.StandardMacros',GraphGuid=F07560274C5742E391E84B8F394CFB36)
+         ResolvedWildcardType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.Actor',bIsArray=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191958'
+         Pins(1)=EdGraphPin'EdGraphPin_191959'
+         Pins(2)=EdGraphPin'EdGraphPin_191960'
+         Pins(3)=EdGraphPin'EdGraphPin_191961'
+         Pins(4)=EdGraphPin'EdGraphPin_191962'
+         Pins(5)=EdGraphPin'EdGraphPin_191963'
+         Pins(6)=EdGraphPin'EdGraphPin_191964'
+         NodePosX=448
+         NodePosY=960
+         ErrorType=1
+         ErrorMsg="Error Unexpected node type K2Node_MacroInstance encountered at  ForEachLoopWithBreak "
+         NodeGuid=7FE9CBAE4F7B8D40ADB62E99E1A650D1
+      End Object
+      Begin Object Name="K2Node_VariableGet_24042"
+         Begin Object Name="EdGraphPin_191534"
+            PinName="MyInventoryComponent"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalInventoryComponent')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_33680.EdGraphPin_191469"'
+            LinkedTo(1)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_9636.EdGraphPin_191556"'
+         End Object
+         Begin Object Name="EdGraphPin_191535"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalStructureItemContainer')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_6279.EdGraphPin_191983"'
+         End Object
+         VariableReference=(MemberParentClass=Class'/Script/ShooterGame.PrimalStructureItemContainer',MemberName="MyInventoryComponent")
+         SelfContextInfo=NotSelfContext
+         Pins(0)=EdGraphPin'EdGraphPin_191534'
+         Pins(1)=EdGraphPin'EdGraphPin_191535'
+         NodePosX=864
+         NodePosY=1232
+         NodeGuid=A9777A1A49E7600BB15CDEB4172E6633
+      End Object
+      Begin Object Name="K2Node_DynamicCast_6279"
+         Begin Object Name="EdGraphPin_191979"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_2004.EdGraphPin_191961"'
+         End Object
+         Begin Object Name="EdGraphPin_191980"
+            PinName="Object"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/CoreUObject.Object')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_2004.EdGraphPin_191962"'
+         End Object
+         Begin Object Name="EdGraphPin_191981"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableSet_6553.EdGraphPin_191588"'
+         End Object
+         Begin Object Name="EdGraphPin_191982"
+            PinName="CastFailed"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Begin Object Name="EdGraphPin_191983"
+            PinName="AsCropPlotBaseBP_C"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'/Game/PrimalEarth/Structures/BuildingBases/CropPlotBaseBP.CropPlotBaseBP_C')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_24042.EdGraphPin_191535"'
+         End Object
+         TargetType=BlueprintGeneratedClass'/Game/PrimalEarth/Structures/BuildingBases/CropPlotBaseBP.CropPlotBaseBP_C'
+         Pins(0)=EdGraphPin'EdGraphPin_191979'
+         Pins(1)=EdGraphPin'EdGraphPin_191980'
+         Pins(2)=EdGraphPin'EdGraphPin_191981'
+         Pins(3)=EdGraphPin'EdGraphPin_191982'
+         Pins(4)=EdGraphPin'EdGraphPin_191983'
+         NodePosX=736
+         NodePosY=960
+         NodeGuid=DF71928E41C3C2C3DB960DBA110BDE1A
+      End Object
+      Begin Object Name="K2Node_VariableGet_9636"
+         Begin Object Name="EdGraphPin_191555"
+            PinName="InventoryItems"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem',bIsArray=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_507.EdGraphPin_191995"'
+         End Object
+         Begin Object Name="EdGraphPin_191556"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalInventoryComponent')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_24042.EdGraphPin_191534"'
+         End Object
+         VariableReference=(MemberParentClass=Class'/Script/ShooterGame.PrimalInventoryComponent',MemberName="InventoryItems")
+         SelfContextInfo=NotSelfContext
+         Pins(0)=EdGraphPin'EdGraphPin_191555'
+         Pins(1)=EdGraphPin'EdGraphPin_191556'
+         NodePosX=1216
+         NodePosY=1216
+         NodeGuid=8654D625407CC4006DE9DEA4F4608CA4
+      End Object
+      Begin Object Name="K2Node_MacroInstance_507"
+         Begin Object Name="EdGraphPin_191994"
+            PinName="Exec"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableSet_6553.EdGraphPin_191589"'
+         End Object
+         Begin Object Name="EdGraphPin_191995"
+            PinName="Array"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem',bIsArray=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_9636.EdGraphPin_191555"'
+         End Object
+         Begin Object Name="EdGraphPin_191996"
+            PinName="LoopBody"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_3147.EdGraphPin_192012"'
+         End Object
+         Begin Object Name="EdGraphPin_191997"
+            PinName="Array Element"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_3147.EdGraphPin_192013"'
+         End Object
+         Begin Object Name="EdGraphPin_191998"
+            PinName="Array Index"
+            Direction=EGPD_Output
+            PinType=(PinCategory="int")
+         End Object
+         Begin Object Name="EdGraphPin_191999"
+            PinName="Completed"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_IfThenElse_1899.EdGraphPin_191453"'
+         End Object
+         MacroGraphReference=(MacroGraph=EdGraph'/Engine/EditorBlueprintResources/StandardMacros.StandardMacros:ForEachLoop',GraphBlueprint=Blueprint'/Engine/EditorBlueprintResources/StandardMacros.StandardMacros',GraphGuid=99DBFD5540A796041F72A5A9DA655026)
+         ResolvedWildcardType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem',bIsArray=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191994'
+         Pins(1)=EdGraphPin'EdGraphPin_191995'
+         Pins(2)=EdGraphPin'EdGraphPin_191996'
+         Pins(3)=EdGraphPin'EdGraphPin_191997'
+         Pins(4)=EdGraphPin'EdGraphPin_191998'
+         Pins(5)=EdGraphPin'EdGraphPin_191999'
+         NodePosX=1584
+         NodePosY=1200
+         ErrorType=1
+         ErrorMsg="Error Unexpected node type K2Node_MacroInstance encountered at  ForEachLoop "
+         NodeGuid=F8D938714834B45F946320AF9F895C02
+      End Object
+      Begin Object Name="K2Node_DynamicCast_3147"
+         Begin Object Name="EdGraphPin_192012"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_507.EdGraphPin_191996"'
+         End Object
+         Begin Object Name="EdGraphPin_192013"
+            PinName="Object"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/CoreUObject.Object')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_507.EdGraphPin_191997"'
+         End Object
+         Begin Object Name="EdGraphPin_192014"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableSet_6861.EdGraphPin_191618"'
+         End Object
+         Begin Object Name="EdGraphPin_192015"
+            PinName="CastFailed"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Begin Object Name="EdGraphPin_192016"
+            PinName="AsPrimalItemConsumable_Fertilizer_Base_C"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_Fertilizer_Base.PrimalItemConsumable_Fertilizer_Base_C')
+         End Object
+         TargetType=BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_Fertilizer_Base.PrimalItemConsumable_Fertilizer_Base_C'
+         Pins(0)=EdGraphPin'EdGraphPin_192012'
+         Pins(1)=EdGraphPin'EdGraphPin_192013'
+         Pins(2)=EdGraphPin'EdGraphPin_192014'
+         Pins(3)=EdGraphPin'EdGraphPin_192015'
+         Pins(4)=EdGraphPin'EdGraphPin_192016'
+         NodePosX=1920
+         NodePosY=1408
+         NodeGuid=ABBE5DB645C372E0F5C29EA9BAC8F395
+      End Object
+      Begin Object Name="K2Node_VariableSet_6553"
+         Begin Object Name="EdGraphPin_191588"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_6279.EdGraphPin_191981"'
+         End Object
+         Begin Object Name="EdGraphPin_191589"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_507.EdGraphPin_191994"'
+         End Object
+         Begin Object Name="EdGraphPin_191590"
+            PinName="Fertamount"
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+         End Object
+         Begin Object Name="EdGraphPin_191591"
+            PinName="self"
+            PinType=(PinCategory="object",PinSubCategory="self")
+            bHidden=True
+         End Object
+         VariableReference=(MemberName="Fertamount",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191588'
+         Pins(1)=EdGraphPin'EdGraphPin_191589'
+         Pins(2)=EdGraphPin'EdGraphPin_191590'
+         Pins(3)=EdGraphPin'EdGraphPin_191591'
+         NodePosX=1200
+         NodePosY=1120
+         ErrorType=3
+         ErrorMsg="Warning Unable to find variable with name \'Fertamount\' for  Set Fertamount \nWarning Unable to find variable with name \'Fertamount\' for  Set Fertamount "
+         NodeGuid=571205464BA63D8DD585A18CC5A8C458
+      End Object
+      Begin Object Name="K2Node_VariableGet_10596"
+         Begin Object Name="EdGraphPin_191600"
+            PinName="Fertamount"
+            Direction=EGPD_Output
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_2547.EdGraphPin_191607"'
+         End Object
+         Begin Object Name="EdGraphPin_191601"
+            PinName="self"
+            PinType=(PinCategory="object",PinSubCategory="self")
+            bHidden=True
+         End Object
+         VariableReference=(MemberName="Fertamount",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191600'
+         Pins(1)=EdGraphPin'EdGraphPin_191601'
+         NodePosX=2176
+         NodePosY=1664
+         ErrorType=3
+         ErrorMsg="Warning Unable to find variable with name \'Fertamount\' for  Get Fertamount \nWarning Unable to find variable with name \'Fertamount\' for  Get Fertamount "
+         NodeGuid=C8667C9C4ED87E37E3AD8089698FAF5B
+      End Object
+      Begin Object Name="K2Node_CommutativeAssociativeBinaryOperator_2547"
+         Begin Object Name="EdGraphPin_191606"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nKismet Math Library Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.KismetMathLibrary')
+            DefaultObject=Default__KismetMathLibrary
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_191607"
+            PinName="A"
+            PinToolTip="A\nInteger"
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_10596.EdGraphPin_191600"'
+         End Object
+         Begin Object Name="EdGraphPin_191608"
+            PinName="B"
+            PinToolTip="B\nInteger"
+            PinType=(PinCategory="int")
+            DefaultValue="1"
+            AutogeneratedDefaultValue="0"
+         End Object
+         Begin Object Name="EdGraphPin_191609"
+            PinName="ReturnValue"
+            PinToolTip="Return Value\nInteger"
+            Direction=EGPD_Output
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableSet_6861.EdGraphPin_191620"'
+         End Object
+         bIsPureFunc=True
+         FunctionReference=(MemberParentClass=Class'/Script/Engine.KismetMathLibrary',MemberName="Add_IntInt")
+         Pins(0)=EdGraphPin'EdGraphPin_191606'
+         Pins(1)=EdGraphPin'EdGraphPin_191607'
+         Pins(2)=EdGraphPin'EdGraphPin_191608'
+         Pins(3)=EdGraphPin'EdGraphPin_191609'
+         NodePosX=2352
+         NodePosY=1632
+         NodeGuid=0B0085204CF27D66183D609F09C11338
+      End Object
+      Begin Object Name="K2Node_VariableSet_6861"
+         Begin Object Name="EdGraphPin_191618"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_3147.EdGraphPin_192014"'
+         End Object
+         Begin Object Name="EdGraphPin_191619"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Begin Object Name="EdGraphPin_191620"
+            PinName="Fertamount"
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_2547.EdGraphPin_191609"'
+         End Object
+         Begin Object Name="EdGraphPin_191621"
+            PinName="self"
+            PinType=(PinCategory="object",PinSubCategory="self")
+            bHidden=True
+         End Object
+         VariableReference=(MemberName="Fertamount",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191618'
+         Pins(1)=EdGraphPin'EdGraphPin_191619'
+         Pins(2)=EdGraphPin'EdGraphPin_191620'
+         Pins(3)=EdGraphPin'EdGraphPin_191621'
+         NodePosX=2512
+         NodePosY=1440
+         ErrorType=3
+         ErrorMsg="Warning Unable to find variable with name \'Fertamount\' for  Set Fertamount \nWarning Unable to find variable with name \'Fertamount\' for  Set Fertamount "
+         NodeGuid=7E65AFA14A12D7B4641AE0865441EC5D
+      End Object
+      Begin Object Name="K2Node_VariableGet_10915"
+         Begin Object Name="EdGraphPin_191630"
+            PinName="Fertamount"
+            Direction=EGPD_Output
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_38768.EdGraphPin_191637"'
+         End Object
+         Begin Object Name="EdGraphPin_191631"
+            PinName="self"
+            PinType=(PinCategory="object",PinSubCategory="self")
+            bHidden=True
+         End Object
+         VariableReference=(MemberName="Fertamount",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191630'
+         Pins(1)=EdGraphPin'EdGraphPin_191631'
+         NodePosX=1248
+         NodePosY=928
+         ErrorType=3
+         ErrorMsg="Warning Unable to find variable with name \'Fertamount\' for  Get Fertamount \nWarning Unable to find variable with name \'Fertamount\' for  Get Fertamount "
+         NodeGuid=B68EF16C4E8DD38F8FB7F1B961EF096E
+      End Object
+      Begin Object Name="K2Node_CallFunction_38768"
+         Begin Object Name="EdGraphPin_191636"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nKismet Math Library Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.KismetMathLibrary')
+            DefaultObject=Default__KismetMathLibrary
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_191637"
+            PinName="A"
+            PinToolTip="A\nInteger"
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_10915.EdGraphPin_191630"'
+         End Object
+         Begin Object Name="EdGraphPin_191638"
+            PinName="B"
+            PinToolTip="B\nInteger"
+            PinType=(PinCategory="int")
+            DefaultValue="10"
+            AutogeneratedDefaultValue="0"
+         End Object
+         Begin Object Name="EdGraphPin_191639"
+            PinName="ReturnValue"
+            PinToolTip="Return Value\nBoolean"
+            Direction=EGPD_Output
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_IfThenElse_1899.EdGraphPin_191454"'
+         End Object
+         bIsPureFunc=True
+         FunctionReference=(MemberParentClass=Class'/Script/Engine.KismetMathLibrary',MemberName="Less_IntInt")
+         Pins(0)=EdGraphPin'EdGraphPin_191636'
+         Pins(1)=EdGraphPin'EdGraphPin_191637'
+         Pins(2)=EdGraphPin'EdGraphPin_191638'
+         Pins(3)=EdGraphPin'EdGraphPin_191639'
+         NodePosX=1424
+         NodePosY=944
+         NodeGuid=73AD9C1D44443DAE36DD6DAB2667842C
+      End Object
+      Begin Object Name="K2Node_DynamicCast_4940"
+         Begin Object Name="EdGraphPin_192027"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_IfThenElse_1717.EdGraphPin_191323"'
+         End Object
+         Begin Object Name="EdGraphPin_192028"
+            PinName="Object"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/CoreUObject.Object')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_8705.EdGraphPin_191447"'
+         End Object
+         Begin Object Name="EdGraphPin_192029"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_ClassDynamicCast_8613.EdGraphPin_191726"'
+         End Object
+         Begin Object Name="EdGraphPin_192030"
+            PinName="CastFailed"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Begin Object Name="EdGraphPin_192031"
+            PinName="AsPrimalItemConsumablePoop_C"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumablePoop.PrimalItemConsumablePoop_C')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_128123.EdGraphPin_191718"'
+            LinkedTo(1)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_19076.EdGraphPin_191784"'
+         End Object
+         TargetType=BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumablePoop.PrimalItemConsumablePoop_C'
+         Pins(0)=EdGraphPin'EdGraphPin_192027'
+         Pins(1)=EdGraphPin'EdGraphPin_192028'
+         Pins(2)=EdGraphPin'EdGraphPin_192029'
+         Pins(3)=EdGraphPin'EdGraphPin_192030'
+         Pins(4)=EdGraphPin'EdGraphPin_192031'
+         NodePosX=1376
+         NodePosY=-272
+         NodeGuid=A64B032643A62B012F1EFEAE68B65042
+      End Object
+      Begin Object Name="K2Node_VariableGet_8221"
+         Begin Object Name="EdGraphPin_191663"
+            PinName="MyInventoryComponent"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalInventoryComponent')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_38596.EdGraphPin_191671"'
+            LinkedTo(1)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_8853.EdGraphPin_191697"'
+         End Object
+         Begin Object Name="EdGraphPin_191664"
+            PinName="self"
+            PinType=(PinCategory="object",PinSubCategory="self")
+            bHidden=True
+         End Object
+         VariableReference=(MemberName="MyInventoryComponent",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191663'
+         Pins(1)=EdGraphPin'EdGraphPin_191664'
+         NodePosX=96
+         ErrorType=1
+         ErrorMsg="Warning Unable to find variable with name \'MyInventoryComponent\' for  Get MyInventoryComponent \nError The property associated with  My Inventory Component  could not be found"
+         NodeGuid=E426D48B476B1C5F36B133A3BFC6826D
+      End Object
+      Begin Object Name="K2Node_CallFunction_38596"
+         Begin Object Name="EdGraphPin_191669"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_33392.EdGraphPin_191927"'
+         End Object
+         Begin Object Name="EdGraphPin_191670"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_IfThenElse_1717.EdGraphPin_191321"'
+         End Object
+         Begin Object Name="EdGraphPin_191671"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nPrimal Inventory Component Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalInventoryComponent')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_8221.EdGraphPin_191663"'
+         End Object
+         Begin Object Name="EdGraphPin_191672"
+            PinName="bIgnoreHiddenDefaultInventory"
+            PinToolTip="Ignore Hidden Default Inventory\nBoolean"
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+         End Object
+         Begin Object Name="EdGraphPin_191673"
+            PinName="ReturnValue"
+            PinToolTip="Return Value\nInteger"
+            Direction=EGPD_Output
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_175200.EdGraphPin_191805"'
+         End Object
+         FunctionReference=(MemberParentClass=Class'/Script/ShooterGame.PrimalInventoryComponent',MemberName="GetMaxInventoryItems")
+         Pins(0)=EdGraphPin'EdGraphPin_191669'
+         Pins(1)=EdGraphPin'EdGraphPin_191670'
+         Pins(2)=EdGraphPin'EdGraphPin_191671'
+         Pins(3)=EdGraphPin'EdGraphPin_191672'
+         Pins(4)=EdGraphPin'EdGraphPin_191673'
+         NodePosX=576
+         NodePosY=-64
+         NodeGuid=401D49B54C654E1C9C0BD8AC2AF9D710
+      End Object
+      Begin Object Name="K2Node_CallFunction_38671"
+         Begin Object Name="EdGraphPin_191684"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nKismet Math Library Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.KismetMathLibrary')
+            DefaultObject=Default__KismetMathLibrary
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_191685"
+            PinName="A"
+            PinToolTip="A\nInteger"
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallArrayFunction_1126.EdGraphPin_191564"'
+         End Object
+         Begin Object Name="EdGraphPin_191686"
+            PinName="B"
+            PinToolTip="B\nInteger"
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_175202.EdGraphPin_191845"'
+         End Object
+         Begin Object Name="EdGraphPin_191687"
+            PinName="ReturnValue"
+            PinToolTip="Return Value\nBoolean"
+            Direction=EGPD_Output
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_IfThenElse_1717.EdGraphPin_191322"'
+         End Object
+         bIsPureFunc=True
+         FunctionReference=(MemberParentClass=Class'/Script/Engine.KismetMathLibrary',MemberName="Less_IntInt")
+         Pins(0)=EdGraphPin'EdGraphPin_191684'
+         Pins(1)=EdGraphPin'EdGraphPin_191685'
+         Pins(2)=EdGraphPin'EdGraphPin_191686'
+         Pins(3)=EdGraphPin'EdGraphPin_191687'
+         NodePosX=848
+         NodePosY=224
+         NodeGuid=2D9551ED458B6B811DEB4587839B1A52
+      End Object
+      Begin Object Name="K2Node_VariableGet_8853"
+         Begin Object Name="EdGraphPin_191696"
+            PinName="InventoryItems"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem',bIsArray=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallArrayFunction_1126.EdGraphPin_191562"'
+         End Object
+         Begin Object Name="EdGraphPin_191697"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalInventoryComponent')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_8221.EdGraphPin_191663"'
+         End Object
+         VariableReference=(MemberParentClass=Class'/Script/ShooterGame.PrimalInventoryComponent',MemberName="InventoryItems")
+         SelfContextInfo=NotSelfContext
+         Pins(0)=EdGraphPin'EdGraphPin_191696'
+         Pins(1)=EdGraphPin'EdGraphPin_191697'
+         NodePosX=304
+         NodePosY=160
+         NodeGuid=59ECC7B847682030966FCAAC51AB24B2
+      End Object
+      Begin Object Name="K2Node_CallArrayFunction_1126"
+         Begin Object Name="EdGraphPin_191561"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nKismet Array Library Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.KismetArrayLibrary')
+            DefaultObject=Default__KismetArrayLibrary
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_191562"
+            PinName="TargetArray"
+            PinToolTip="Target Array\nArray of Wildcard\n\nThe array to get the length of *"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem',bIsArray=True,bIsReference=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_8853.EdGraphPin_191696"'
+            bDefaultValueIsIgnored=True
+         End Object
+         Begin Object Name="EdGraphPin_191563"
+            PinName="ArrayProperty"
+            PinToolTip="Array Property\nArray Property Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/CoreUObject.ArrayProperty',bIsConst=True)
+            bHidden=True
+            bNotConnectable=True
+            bDefaultValueIsReadOnly=True
+         End Object
+         Begin Object Name="EdGraphPin_191564"
+            PinName="ReturnValue"
+            PinToolTip="Return Value\nInteger\n\nThe length of the array"
+            Direction=EGPD_Output
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_38671.EdGraphPin_191685"'
+         End Object
+         bIsPureFunc=True
+         FunctionReference=(MemberParentClass=Class'/Script/Engine.KismetArrayLibrary',MemberName="Array_Length")
+         Pins(0)=EdGraphPin'EdGraphPin_191561'
+         Pins(1)=EdGraphPin'EdGraphPin_191562'
+         Pins(2)=EdGraphPin'EdGraphPin_191563'
+         Pins(3)=EdGraphPin'EdGraphPin_191564'
+         NodePosX=544
+         NodePosY=256
+         NodeGuid=5417727D490EC1DBCDEC629DB4ABD6C3
+      End Object
+      Begin Object Name="K2Node_CallFunction_128123"
+         Begin Object Name="EdGraphPin_191717"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nGameplay Statics Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.GameplayStatics')
+            DefaultObject=Default__GameplayStatics
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_191718"
+            PinName="Object"
+            PinToolTip="Object\nObject Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/CoreUObject.Object',bIsConst=True)
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_4940.EdGraphPin_192031"'
+         End Object
+         Begin Object Name="EdGraphPin_191719"
+            PinName="ReturnValue"
+            PinToolTip="Return Value\nObject Class"
+            Direction=EGPD_Output
+            PinType=(PinCategory="class",PinSubCategoryObject=Class'/Script/CoreUObject.Object')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_ClassDynamicCast_8613.EdGraphPin_191727"'
+         End Object
+         bIsPureFunc=True
+         FunctionReference=(MemberParentClass=Class'/Script/Engine.GameplayStatics',MemberName="GetObjectClass")
+         Pins(0)=EdGraphPin'EdGraphPin_191717'
+         Pins(1)=EdGraphPin'EdGraphPin_191718'
+         Pins(2)=EdGraphPin'EdGraphPin_191719'
+         NodePosX=1728
+         NodePosY=-80
+         NodeGuid=F871CB434AB82E3BF5F336A155EAED5E
+      End Object
+      Begin Object Name="K2Node_ClassDynamicCast_8613"
+         Begin Object Name="EdGraphPin_191726"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_4940.EdGraphPin_192029"'
+         End Object
+         Begin Object Name="EdGraphPin_191727"
+            PinName="Class"
+            PinType=(PinCategory="class",PinSubCategoryObject=Class'/Script/CoreUObject.Object')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_128123.EdGraphPin_191719"'
+         End Object
+         Begin Object Name="EdGraphPin_191728"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_128219.EdGraphPin_191741"'
+         End Object
+         Begin Object Name="EdGraphPin_191729"
+            PinName="CastFailed"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Begin Object Name="EdGraphPin_191730"
+            PinName="AsPrimalItem"
+            Direction=EGPD_Output
+            PinType=(PinCategory="class",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_128219.EdGraphPin_191744"'
+         End Object
+         TargetType=Class'/Script/ShooterGame.PrimalItem'
+         Pins(0)=EdGraphPin'EdGraphPin_191726'
+         Pins(1)=EdGraphPin'EdGraphPin_191727'
+         Pins(2)=EdGraphPin'EdGraphPin_191728'
+         Pins(3)=EdGraphPin'EdGraphPin_191729'
+         Pins(4)=EdGraphPin'EdGraphPin_191730'
+         NodePosX=1904
+         NodePosY=-224
+         NodeGuid=989CC4BC44762CE44262A3B9AF1FD502
+      End Object
+      Begin Object Name="K2Node_CallFunction_128219"
+         Begin Object Name="EdGraphPin_191741"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_ClassDynamicCast_8613.EdGraphPin_191728"'
+         End Object
+         Begin Object Name="EdGraphPin_191742"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_51445.EdGraphPin_191426"'
+         End Object
+         Begin Object Name="EdGraphPin_191743"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nPrimal Item Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem')
+            DefaultObject=Default__PrimalItem
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_191744"
+            PinName="ItemArchetype"
+            PinToolTip="Item Archetype\nPrimal Item Class"
+            PinType=(PinCategory="class",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_ClassDynamicCast_8613.EdGraphPin_191730"'
+         End Object
+         Begin Object Name="EdGraphPin_191745"
+            PinName="GiveToInventory"
+            PinToolTip="Give to Inventory\nPrimal Inventory Component Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalInventoryComponent')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_18366.EdGraphPin_191381"'
+         End Object
+         Begin Object Name="EdGraphPin_191746"
+            PinName="bEquipItem"
+            PinToolTip="Equip Item\nBoolean"
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+         End Object
+         Begin Object Name="EdGraphPin_191747"
+            PinName="bDontStack"
+            PinToolTip="Dont Stack\nBoolean"
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+         End Object
+         Begin Object Name="EdGraphPin_191748"
+            PinName="ItemQuality"
+            PinToolTip="Item Quality\nFloat"
+            PinType=(PinCategory="float")
+            DefaultValue="0.000000"
+            AutogeneratedDefaultValue="0.000000"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_128262.EdGraphPin_191791"'
+         End Object
+         Begin Object Name="EdGraphPin_191749"
+            PinName="bForceNoBlueprint"
+            PinToolTip="Force No Blueprint\nBoolean"
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+         End Object
+         Begin Object Name="EdGraphPin_191750"
+            PinName="quantityOverride"
+            PinToolTip="Quantity Override\nInteger"
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+         End Object
+         Begin Object Name="EdGraphPin_191751"
+            PinName="bForceBlueprint"
+            PinToolTip="Force Blueprint\nBoolean"
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+         End Object
+         Begin Object Name="EdGraphPin_191752"
+            PinName="MaxItemDifficultyClamp"
+            PinToolTip="Max Item Difficulty Clamp\nFloat"
+            PinType=(PinCategory="float")
+            DefaultValue="0.000000"
+            AutogeneratedDefaultValue="0.000000"
+         End Object
+         Begin Object Name="EdGraphPin_191753"
+            PinName="CreateOnClient"
+            PinToolTip="Create on Client\nBoolean"
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+         End Object
+         Begin Object Name="EdGraphPin_191754"
+            PinName="ReturnValue"
+            PinToolTip="Return Value\nPrimal Item Reference"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem')
+         End Object
+         FunctionReference=(MemberParentClass=Class'/Script/ShooterGame.PrimalItem',MemberName="AddNewItem")
+         Pins(0)=EdGraphPin'EdGraphPin_191741'
+         Pins(1)=EdGraphPin'EdGraphPin_191742'
+         Pins(2)=EdGraphPin'EdGraphPin_191743'
+         Pins(3)=EdGraphPin'EdGraphPin_191744'
+         Pins(4)=EdGraphPin'EdGraphPin_191745'
+         Pins(5)=EdGraphPin'EdGraphPin_191746'
+         Pins(6)=EdGraphPin'EdGraphPin_191747'
+         Pins(7)=EdGraphPin'EdGraphPin_191748'
+         Pins(8)=EdGraphPin'EdGraphPin_191749'
+         Pins(9)=EdGraphPin'EdGraphPin_191750'
+         Pins(10)=EdGraphPin'EdGraphPin_191751'
+         Pins(11)=EdGraphPin'EdGraphPin_191752'
+         Pins(12)=EdGraphPin'EdGraphPin_191753'
+         Pins(13)=EdGraphPin'EdGraphPin_191754'
+         NodePosX=2208
+         NodePosY=-160
+         NodeGuid=314A73234CFF6C95E5416CA7E71598C7
+      End Object
+      Begin Object Name="K2Node_VariableGet_19076"
+         Begin Object Name="EdGraphPin_191783"
+            PinName="ItemQuantity"
+            Direction=EGPD_Output
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_128262.EdGraphPin_191790"'
+         End Object
+         Begin Object Name="EdGraphPin_191784"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalItem')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_DynamicCast_4940.EdGraphPin_192031"'
+         End Object
+         VariableReference=(MemberParentClass=Class'/Script/ShooterGame.PrimalItem',MemberName="ItemQuantity")
+         SelfContextInfo=NotSelfContext
+         Pins(0)=EdGraphPin'EdGraphPin_191783'
+         Pins(1)=EdGraphPin'EdGraphPin_191784'
+         NodePosX=1856
+         NodePosY=32
+         ErrorType=3
+         ErrorMsg="Warning This blueprint (self) is not a PrimalItem, therefore \' Target \' must have a connection\nWarning This blueprint (self) is not a PrimalItem, therefore \' Target \' must have a connection\nWarning This blueprint (self) is not a PrimalItem, therefore \' Target \' must have a connection"
+         NodeGuid=5569F748463227669FF9C9B9D44A7276
+      End Object
+      Begin Object Name="K2Node_CallFunction_128262"
+         Begin Object Name="EdGraphPin_191789"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nKismet Math Library Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.KismetMathLibrary')
+            DefaultObject=Default__KismetMathLibrary
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_191790"
+            PinName="InInt"
+            PinToolTip="In Int\nInteger"
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_19076.EdGraphPin_191783"'
+         End Object
+         Begin Object Name="EdGraphPin_191791"
+            PinName="ReturnValue"
+            PinToolTip="Return Value\nFloat"
+            Direction=EGPD_Output
+            PinType=(PinCategory="float")
+            DefaultValue="0.0"
+            AutogeneratedDefaultValue="0.0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_128219.EdGraphPin_191748"'
+         End Object
+         bIsPureFunc=True
+         FunctionReference=(MemberParentClass=Class'/Script/Engine.KismetMathLibrary',MemberName="Conv_IntToFloat")
+         Pins(0)=EdGraphPin'EdGraphPin_191789'
+         Pins(1)=EdGraphPin'EdGraphPin_191790'
+         Pins(2)=EdGraphPin'EdGraphPin_191791'
+         NodePosX=2032
+         NodePosY=-64
+         NodeGuid=4E12A1A84AAE62A15F1FEA912A78FC34
+      End Object
+      Begin Object Name="K2Node_VariableGet_19078"
+         Begin Object Name="EdGraphPin_191798"
+            PinName="MyInventoryComponent"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/ShooterGame.PrimalInventoryComponent')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_VariableGet_13566.EdGraphPin_191442"'
+         End Object
+         Begin Object Name="EdGraphPin_191799"
+            PinName="self"
+            PinType=(PinCategory="object",PinSubCategory="self")
+            bHidden=True
+         End Object
+         VariableReference=(MemberName="MyInventoryComponent",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191798'
+         Pins(1)=EdGraphPin'EdGraphPin_191799'
+         NodePosX=-1952
+         NodePosY=768
+         NodeGuid=5C8651DC43BA3F8AC3FE249B543199F2
+      End Object
+      Begin Object Name="K2Node_DynamicCast_5954"
+         Begin Object Name="EdGraphPin_192042"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_669.EdGraphPin_191942"'
+         End Object
+         Begin Object Name="EdGraphPin_192043"
+            PinName="Object"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/CoreUObject.Object')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_MacroInstance_669.EdGraphPin_191943"'
+         End Object
+         Begin Object Name="EdGraphPin_192044"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_28353.EdGraphPin_191393"'
+         End Object
+         Begin Object Name="EdGraphPin_192045"
+            PinName="CastFailed"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Begin Object Name="EdGraphPin_192046"
+            PinName="AsPrimalItemConsumable_Fertilizer_Base_C"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_Fertilizer_Base.PrimalItemConsumable_Fertilizer_Base_C')
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallArrayFunction_1507.EdGraphPin_191512"'
+         End Object
+         TargetType=BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_Fertilizer_Base.PrimalItemConsumable_Fertilizer_Base_C'
+         Pins(0)=EdGraphPin'EdGraphPin_192042'
+         Pins(1)=EdGraphPin'EdGraphPin_192043'
+         Pins(2)=EdGraphPin'EdGraphPin_192044'
+         Pins(3)=EdGraphPin'EdGraphPin_192045'
+         Pins(4)=EdGraphPin'EdGraphPin_192046'
+         NodePosX=-896
+         NodePosY=704
+         NodeGuid=48F265A8463176C435DA2FA77912D090
+      End Object
+      Begin Object Name="K2Node_Event_4368"
+         Begin Object Name="EdGraphPin_191193"
+            PinName="OutputDelegate"
+            Direction=EGPD_Output
+            PinType=(PinCategory="delegate",PinSubCategoryObject=Function'/Script/ShooterGame.PrimalDinoCharacter:BlueprintTamedTick')
+         End Object
+         Begin Object Name="EdGraphPin_191194"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_ExecutionSequence_826.EdGraphPin_191834"'
+         End Object
+         EventSignatureName="BlueprintTamedTick"
+         EventSignatureClass=Class'/Script/ShooterGame.PrimalDinoCharacter'
+         bOverrideFunction=True
+         Pins(0)=EdGraphPin'EdGraphPin_191193'
+         Pins(1)=EdGraphPin'EdGraphPin_191194'
+         NodePosX=-1184
+         NodePosY=-1408
+         NodeGuid=6A27B58945C04D8AD1BEBEB7655D856A
+      End Object
+      Begin Object Name="K2Node_CallFunction_154225"
+         Begin Object Name="EdGraphPin_191816"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_ExecutionSequence_826.EdGraphPin_191835"'
+         End Object
+         Begin Object Name="EdGraphPin_191817"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Begin Object Name="EdGraphPin_191818"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nSelf Reference"
+            PinType=(PinCategory="object",PinSubCategory="self")
+         End Object
+         FunctionReference=(MemberName="AddFert",MemberGuid=45DD7ED84AE23125FD3CC491DC302745,bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191816'
+         Pins(1)=EdGraphPin'EdGraphPin_191817'
+         Pins(2)=EdGraphPin'EdGraphPin_191818'
+         NodePosX=-656
+         NodePosY=-1472
+         ErrorType=3
+         ErrorMsg="Warning Unable to find function with name \'AddFert\' for  Add Fert "
+         NodeGuid=DA3EC3A4417BCAF3FE2DCE8D54956A92
+      End Object
+      Begin Object Name="K2Node_CallFunction_154517"
+         Begin Object Name="EdGraphPin_191825"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_ExecutionSequence_826.EdGraphPin_191836"'
+         End Object
+         Begin Object Name="EdGraphPin_191826"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Begin Object Name="EdGraphPin_191827"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nSelf Reference"
+            PinType=(PinCategory="object",PinSubCategory="self")
+         End Object
+         FunctionReference=(MemberName="collectpoop",MemberGuid=90D1FA2C489C36B0364FBC97DD788D6B,bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_191825'
+         Pins(1)=EdGraphPin'EdGraphPin_191826'
+         Pins(2)=EdGraphPin'EdGraphPin_191827'
+         NodePosX=-640
+         NodePosY=-1360
+         ErrorType=3
+         ErrorMsg="Warning Unable to find function with name \'collectpoop\' for  Collectpoop "
+         NodeGuid=D37D3D814538435AD57C3A814D665E81
+      End Object
+      Begin Object Name="K2Node_ExecutionSequence_826"
+         Begin Object Name="EdGraphPin_191834"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_Event_4368.EdGraphPin_191194"'
+         End Object
+         Begin Object Name="EdGraphPin_191835"
+            PinName="then_0"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_154225.EdGraphPin_191816"'
+         End Object
+         Begin Object Name="EdGraphPin_191836"
+            PinName="then_1"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_154517.EdGraphPin_191825"'
+         End Object
+         Pins(0)=EdGraphPin'EdGraphPin_191834'
+         Pins(1)=EdGraphPin'EdGraphPin_191835'
+         Pins(2)=EdGraphPin'EdGraphPin_191836'
+         NodePosX=-912
+         NodePosY=-1488
+         NodeGuid=B7772DAB405E2F069853148F488389D9
+      End Object
+      Begin Object Name="K2Node_CallFunction_175200"
+         Begin Object Name="EdGraphPin_191804"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nKismet Math Library Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.KismetMathLibrary')
+            DefaultObject=Default__KismetMathLibrary
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_191805"
+            PinName="A"
+            PinToolTip="A\nInteger"
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_38596.EdGraphPin_191673"'
+         End Object
+         Begin Object Name="EdGraphPin_191806"
+            PinName="B"
+            PinToolTip="B\nFloat"
+            PinType=(PinCategory="float")
+            DefaultValue=".8"
+            AutogeneratedDefaultValue="0.0"
+         End Object
+         Begin Object Name="EdGraphPin_191807"
+            PinName="ReturnValue"
+            PinToolTip="Return Value\nFloat"
+            Direction=EGPD_Output
+            PinType=(PinCategory="float")
+            DefaultValue="0.0"
+            AutogeneratedDefaultValue="0.0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_175202.EdGraphPin_191844"'
+         End Object
+         bIsPureFunc=True
+         FunctionReference=(MemberParentClass=Class'/Script/Engine.KismetMathLibrary',MemberName="Multiply_IntFloat")
+         Pins(0)=EdGraphPin'EdGraphPin_191804'
+         Pins(1)=EdGraphPin'EdGraphPin_191805'
+         Pins(2)=EdGraphPin'EdGraphPin_191806'
+         Pins(3)=EdGraphPin'EdGraphPin_191807'
+         NodePosX=608
+         NodePosY=128
+         NodeGuid=F0AAAD654B68AEEE8E8A86BB8A0928DB
+      End Object
+      Begin Object Name="K2Node_CallFunction_175202"
+         Begin Object Name="EdGraphPin_191843"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nKismet Math Library Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.KismetMathLibrary')
+            DefaultObject=Default__KismetMathLibrary
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_191844"
+            PinName="A"
+            PinToolTip="A\nFloat"
+            PinType=(PinCategory="float")
+            DefaultValue="0.0"
+            AutogeneratedDefaultValue="0.0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_175200.EdGraphPin_191807"'
+         End Object
+         Begin Object Name="EdGraphPin_191845"
+            PinName="ReturnValue"
+            PinToolTip="Return Value\nInteger"
+            Direction=EGPD_Output
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:EventGraph.K2Node_CallFunction_38671.EdGraphPin_191686"'
+         End Object
+         bIsPureFunc=True
+         FunctionReference=(MemberParentClass=Class'/Script/Engine.KismetMathLibrary',MemberName="FFloor")
+         Pins(0)=EdGraphPin'EdGraphPin_191843'
+         Pins(1)=EdGraphPin'EdGraphPin_191844'
+         Pins(2)=EdGraphPin'EdGraphPin_191845'
+         NodePosX=752
+         NodePosY=128
+         NodeGuid=328CF523474646910F63C99B79276D1A
+      End Object
+      Schema=Class'/Script/BlueprintGraph.EdGraphSchema_K2'
+      Nodes(0)=EdGraphNode_Comment'EdGraphNode_Comment_1278'
+      Nodes(1)=EdGraphNode_Comment'EdGraphNode_Comment_526'
+      Nodes(2)=K2Node_VariableGet'K2Node_VariableGet_18366'
+      Nodes(3)=K2Node_CallFunction'K2Node_CallFunction_51445'
+      Nodes(4)=K2Node_CallFunction'K2Node_CallFunction_27944'
+      Nodes(5)=K2Node_DynamicCast'K2Node_DynamicCast_10418'
+      Nodes(6)=K2Node_CallFunction'K2Node_CallFunction_27945'
+      Nodes(7)=K2Node_MacroInstance'K2Node_MacroInstance_536'
+      Nodes(8)=K2Node_MakeArray'K2Node_MakeArray_66'
+      Nodes(9)=K2Node_DynamicCast'K2Node_DynamicCast_33392'
+      Nodes(10)=K2Node_CustomEvent'K2Node_CustomEvent_2609'
+      Nodes(11)=K2Node_IfThenElse'K2Node_IfThenElse_1717'
+      Nodes(12)=K2Node_VariableGet'K2Node_VariableGet_8705'
+      Nodes(13)=K2Node_VariableGet'K2Node_VariableGet_12019'
+      Nodes(14)=K2Node_CustomEvent'K2Node_CustomEvent_2597'
+      Nodes(15)=K2Node_CallFunction'K2Node_CallFunction_59579'
+      Nodes(16)=K2Node_CallFunction'K2Node_CallFunction_28353'
+      Nodes(17)=K2Node_MakeArray'K2Node_MakeArray_36'
+      Nodes(18)=K2Node_VariableGet'K2Node_VariableGet_8220'
+      Nodes(19)=K2Node_VariableGet'K2Node_VariableGet_13566'
+      Nodes(20)=K2Node_MacroInstance'K2Node_MacroInstance_669'
+      Nodes(21)=K2Node_IfThenElse'K2Node_IfThenElse_1899'
+      Nodes(22)=K2Node_CallFunction'K2Node_CallFunction_33680'
+      Nodes(23)=K2Node_CallArrayFunction'K2Node_CallArrayFunction_1507'
+      Nodes(24)=K2Node_MacroInstance'K2Node_MacroInstance_2004'
+      Nodes(25)=K2Node_VariableGet'K2Node_VariableGet_24042'
+      Nodes(26)=K2Node_DynamicCast'K2Node_DynamicCast_6279'
+      Nodes(27)=K2Node_VariableGet'K2Node_VariableGet_9636'
+      Nodes(28)=K2Node_MacroInstance'K2Node_MacroInstance_507'
+      Nodes(29)=K2Node_DynamicCast'K2Node_DynamicCast_3147'
+      Nodes(30)=K2Node_VariableSet'K2Node_VariableSet_6553'
+      Nodes(31)=K2Node_VariableGet'K2Node_VariableGet_10596'
+      Nodes(32)=K2Node_CommutativeAssociativeBinaryOperator'K2Node_CommutativeAssociativeBinaryOperator_2547'
+      Nodes(33)=K2Node_VariableSet'K2Node_VariableSet_6861'
+      Nodes(34)=K2Node_VariableGet'K2Node_VariableGet_10915'
+      Nodes(35)=K2Node_CallFunction'K2Node_CallFunction_38768'
+      Nodes(36)=K2Node_DynamicCast'K2Node_DynamicCast_4940'
+      Nodes(37)=K2Node_VariableGet'K2Node_VariableGet_8221'
+      Nodes(38)=K2Node_CallFunction'K2Node_CallFunction_38596'
+      Nodes(39)=K2Node_CallFunction'K2Node_CallFunction_38671'
+      Nodes(40)=K2Node_VariableGet'K2Node_VariableGet_8853'
+      Nodes(41)=K2Node_CallArrayFunction'K2Node_CallArrayFunction_1126'
+      Nodes(42)=K2Node_CallFunction'K2Node_CallFunction_128123'
+      Nodes(43)=K2Node_ClassDynamicCast'K2Node_ClassDynamicCast_8613'
+      Nodes(44)=K2Node_CallFunction'K2Node_CallFunction_128219'
+      Nodes(45)=K2Node_VariableGet'K2Node_VariableGet_19076'
+      Nodes(46)=K2Node_CallFunction'K2Node_CallFunction_128262'
+      Nodes(47)=K2Node_VariableGet'K2Node_VariableGet_19078'
+      Nodes(48)=K2Node_DynamicCast'K2Node_DynamicCast_5954'
+      Nodes(49)=K2Node_Event'K2Node_Event_4368'
+      Nodes(50)=K2Node_CallFunction'K2Node_CallFunction_154225'
+      Nodes(51)=K2Node_CallFunction'K2Node_CallFunction_154517'
+      Nodes(52)=K2Node_ExecutionSequence'K2Node_ExecutionSequence_826'
+      Nodes(53)=K2Node_CallFunction'K2Node_CallFunction_175200'
+      Nodes(54)=K2Node_CallFunction'K2Node_CallFunction_175202'
+      bAllowDeletion=False
+      GraphGuid=F7F5EF5C4D22DF7AE6BCF4975F068407
+   End Object
+   Begin Object Name="UserConstructionScript"
+      Begin Object Name="K2Node_FunctionEntry_426"
+         Begin Object Name="EdGraphPin_191190"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:UserConstructionScript.K2Node_CallParentFunction_3.EdGraphPin_191898"'
+         End Object
+         SignatureClass=Class'/Script/Engine.Actor'
+         SignatureName="UserConstructionScript"
+         Pins(0)=EdGraphPin'EdGraphPin_191190'
+         NodeGuid=ADDFFBCE4517CFBFB0CD649FCE76C172
+      End Object
+      Begin Object Name="K2Node_CallParentFunction_3"
+         Begin Object Name="EdGraphPin_191898"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:UserConstructionScript.K2Node_FunctionEntry_426.EdGraphPin_191190"'
+         End Object
+         Begin Object Name="EdGraphPin_191899"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Begin Object Name="EdGraphPin_191900"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nActor Reference"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.Actor')
+            bHidden=True
+         End Object
+         FunctionReference=(MemberParentClass=BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Dino_Character_BP_RepelType.Dino_Character_BP_RepelType_C',MemberName="UserConstructionScript",MemberGuid=6DB7138B492B2A89E33C73BD934BC006)
+         Pins(0)=EdGraphPin'EdGraphPin_191898'
+         Pins(1)=EdGraphPin'EdGraphPin_191899'
+         Pins(2)=EdGraphPin'EdGraphPin_191900'
+         NodePosX=208
+         NodeGuid=61AE072E463A67A51D932D906F09AEB6
+      End Object
+      Schema=Class'/Script/BlueprintGraph.EdGraphSchema_K2'
+      Nodes(0)=K2Node_FunctionEntry'K2Node_FunctionEntry_426'
+      Nodes(1)=K2Node_CallParentFunction'K2Node_CallParentFunction_3'
+      bAllowDeletion=False
+      GraphGuid=FC3A86924A88F6462AA1BC935B9D129F
+   End Object
+   Begin Object Name="SceneThumbnailInfo_3"
+   End Object
+   Begin Object Name="BlueprintTamedTick"
+      Begin Object Name="K2Node_FunctionEntry_6819"
+         Begin Object Name="EdGraphPin_192076"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:BlueprintTamedTick.K2Node_CallFunction_12579.EdGraphPin_192077"'
+         End Object
+         CustomGeneratedFunctionName="BlueprintTamedTick"
+         SignatureClass=Class'/Script/ShooterGame.PrimalDinoCharacter'
+         SignatureName="BlueprintTamedTick"
+         Pins(0)=EdGraphPin'EdGraphPin_192076'
+         NodePosX=-200
+         NodePosY=-2000
+         NodeGuid=C2E1A3CC4BF5E77019B87D845933BF46
+      End Object
+      Begin Object Name="K2Node_CallFunction_12579"
+         Begin Object Name="EdGraphPin_192077"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:BlueprintTamedTick.K2Node_FunctionEntry_6819.EdGraphPin_192076"'
+         End Object
+         Begin Object Name="EdGraphPin_192078"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Begin Object Name="EdGraphPin_192079"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nObject Reference"
+            PinType=(PinCategory="object",PinSubCategory="self",PinSubCategoryObject=BlueprintGeneratedClass'"SKEL_DungBeetle_Character_BP_Evolved_C"')
+         End Object
+         Begin Object Name="EdGraphPin_192080"
+            PinName="EntryPoint"
+            PinToolTip="Entry Point\nInteger\n\nThe entry point to start code execution at."
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+         End Object
+         FunctionReference=(MemberName="ExecuteUbergraph_DungBeetle_Character_BP_Evolved",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_192077'
+         Pins(1)=EdGraphPin'EdGraphPin_192078'
+         Pins(2)=EdGraphPin'EdGraphPin_192079'
+         Pins(3)=EdGraphPin'EdGraphPin_192080'
+         NodePosX=300
+         NodePosY=-2000
+         NodeGuid=EEAFF271443C6E604B00B9845E593CF0
+      End Object
+      Schema=Class'/Script/BlueprintGraph.EdGraphSchema_K2'
+      Nodes(0)=K2Node_FunctionEntry'K2Node_FunctionEntry_6819'
+      Nodes(1)=K2Node_CallFunction'K2Node_CallFunction_12579'
+      GraphGuid=89280C48408B0A28F201B5BC701DB9E2
+   End Object
+   Begin Object Name="AddFert"
+      Begin Object Name="K2Node_FunctionEntry_6820"
+         Begin Object Name="EdGraphPin_192081"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:AddFert.K2Node_CallFunction_12580.EdGraphPin_192082"'
+         End Object
+         CustomGeneratedFunctionName="AddFert"
+         Pins(0)=EdGraphPin'EdGraphPin_192081'
+         NodePosX=-200
+         NodePosY=-2000
+         NodeGuid=23671E8342A254D3C10FAD92D412BEEB
+      End Object
+      Begin Object Name="K2Node_CallFunction_12580"
+         Begin Object Name="EdGraphPin_192082"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:AddFert.K2Node_FunctionEntry_6820.EdGraphPin_192081"'
+         End Object
+         Begin Object Name="EdGraphPin_192083"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Begin Object Name="EdGraphPin_192084"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nObject Reference"
+            PinType=(PinCategory="object",PinSubCategory="self",PinSubCategoryObject=BlueprintGeneratedClass'"SKEL_DungBeetle_Character_BP_Evolved_C"')
+         End Object
+         Begin Object Name="EdGraphPin_192085"
+            PinName="EntryPoint"
+            PinToolTip="Entry Point\nInteger\n\nThe entry point to start code execution at."
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+         End Object
+         FunctionReference=(MemberName="ExecuteUbergraph_DungBeetle_Character_BP_Evolved",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_192082'
+         Pins(1)=EdGraphPin'EdGraphPin_192083'
+         Pins(2)=EdGraphPin'EdGraphPin_192084'
+         Pins(3)=EdGraphPin'EdGraphPin_192085'
+         NodePosX=300
+         NodePosY=-2000
+         NodeGuid=33400815459C63FEEA229CB0B84E7545
+      End Object
+      Schema=Class'/Script/BlueprintGraph.EdGraphSchema_K2'
+      Nodes(0)=K2Node_FunctionEntry'K2Node_FunctionEntry_6820'
+      Nodes(1)=K2Node_CallFunction'K2Node_CallFunction_12580'
+      GraphGuid=BAA3958B45A4C37A754C8FA72FABD734
+   End Object
+   Begin Object Name="collectpoop"
+      Begin Object Name="K2Node_FunctionEntry_6821"
+         Begin Object Name="EdGraphPin_192086"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:collectpoop.K2Node_CallFunction_12581.EdGraphPin_192087"'
+         End Object
+         CustomGeneratedFunctionName="collectpoop"
+         Pins(0)=EdGraphPin'EdGraphPin_192086'
+         NodePosX=-200
+         NodePosY=-2000
+         NodeGuid=F2A35FAB4E6919D9B1FC5DBCE5EAA647
+      End Object
+      Begin Object Name="K2Node_CallFunction_12581"
+         Begin Object Name="EdGraphPin_192087"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'"DungBeetle_Character_BP_Evolved:collectpoop.K2Node_FunctionEntry_6821.EdGraphPin_192086"'
+         End Object
+         Begin Object Name="EdGraphPin_192088"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Begin Object Name="EdGraphPin_192089"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinToolTip="Target\nObject Reference"
+            PinType=(PinCategory="object",PinSubCategory="self",PinSubCategoryObject=BlueprintGeneratedClass'"SKEL_DungBeetle_Character_BP_Evolved_C"')
+         End Object
+         Begin Object Name="EdGraphPin_192090"
+            PinName="EntryPoint"
+            PinToolTip="Entry Point\nInteger\n\nThe entry point to start code execution at."
+            PinType=(PinCategory="int")
+            DefaultValue="0"
+            AutogeneratedDefaultValue="0"
+         End Object
+         FunctionReference=(MemberName="ExecuteUbergraph_DungBeetle_Character_BP_Evolved",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_192087'
+         Pins(1)=EdGraphPin'EdGraphPin_192088'
+         Pins(2)=EdGraphPin'EdGraphPin_192089'
+         Pins(3)=EdGraphPin'EdGraphPin_192090'
+         NodePosX=300
+         NodePosY=-2000
+         NodeGuid=C9E7BA2144E008E84593E3850219E3D9
+      End Object
+      Schema=Class'/Script/BlueprintGraph.EdGraphSchema_K2'
+      Nodes(0)=K2Node_FunctionEntry'K2Node_FunctionEntry_6821'
+      Nodes(1)=K2Node_CallFunction'K2Node_CallFunction_12581'
+      GraphGuid=37CFA416491CC666CF837F9C31F56EF1
+   End Object
+   ParentClass=BlueprintGeneratedClass'/Game/PrimalEarth/CoreBlueprints/Dino_Character_BP_RepelType.Dino_Character_BP_RepelType_C'
+   SearchGuid=7BF099CF41EEF48C620CF28F6FE94B8D
+   SimpleConstructionScript=SimpleConstructionScript'SimpleConstructionScript_2'
+   UbergraphPages(0)=EdGraph'EventGraph'
+   FunctionGraphs(0)=EdGraph'UserConstructionScript'
+   NewVariables(0)=(VarName="BoxSize",VarGuid=97A1023748F403E5A100E0820E400C0F,VarType=(PinCategory="struct",PinSubCategoryObject=ScriptStruct'/Script/CoreUObject.Object:Vector'),FriendlyName="Box Size",Category="Default",PropertyFlags=65541)
+   NewVariables(1)=(VarName="Fertamount",VarGuid=7153B93740DA44F18AD6E38053709564,VarType=(PinCategory="int"),FriendlyName="Fertamount",Category="Default",PropertyFlags=65541)
+   CategorySorting(0)="Default"
+   CategorySorting(1)="Gameplay"
+   CategorySorting(2)=
+   CategorySorting(3)="AI"
+   CategorySorting(4)="Controls"
+   CategorySorting(5)="Landing"
+   CategorySorting(6)="Charging"
+   CategorySorting(7)="Anim"
+   CategorySorting(8)="Pawn"
+   CategorySorting(9)="Color"
+   CategorySorting(10)="Game"
+   CategorySorting(11)="IK"
+   CategorySorting(12)="Egg"
+   CategorySorting(13)="Animation"
+   CategorySorting(14)="BPUse"
+   CategorySorting(15)="Latching"
+   CategorySorting(16)="FX"
+   CategorySorting(17)="Physics"
+   CategorySorting(18)="Ragdoll Dragging"
+   CategorySorting(19)="Traps"
+   CategorySorting(20)="Health"
+   CategorySorting(21)="Ragdoll Replication"
+   CategorySorting(22)="Damage"
+   CategorySorting(23)="Character"
+   CategorySorting(24)="Camera"
+   CategorySorting(25)="Movement"
+   CategorySorting(26)="Rendering"
+   CategorySorting(27)="Replication"
+   CategorySorting(28)="Misc"
+   CategorySorting(29)="Actor"
+   CategorySorting(30)="Tags"
+   CategorySorting(31)="Collision"
+   CategorySorting(32)="Input"
+   BlueprintSystemVersion=2
+   LastEditedDocuments(0)=(EditedObject=EdGraph'UserConstructionScript',SavedZoomAmount=1.000000)
+   LastEditedDocuments(1)=(EditedObject=EdGraph'EventGraph',SavedViewOffset=(X=444.339478,Y=-206.140900),SavedZoomAmount=1.000000)
+   ThumbnailInfo=SceneThumbnailInfo'SceneThumbnailInfo_3'
+   GeneratedClass=BlueprintGeneratedClass'DungBeetle_Character_BP_Evolved_C'
+   bLegacyNeedToPurgeSkelRefs=False
+   bLegacyGeneratedClassIsAuthoritative=True
+   BlueprintGuid=3D307CF2412F06826D7FE78778628A40
+End Object
